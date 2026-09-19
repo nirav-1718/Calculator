@@ -43,6 +43,25 @@ button {
     background-color: #eee;
 }
 
+#equal {
+    background-color: blue;
+    color: white;
+}
+
+.clr {
+    color: #4a5568;
+    font-weight: 100;
+}
+
+.dot {
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
 button:active {
     background-color: #ddd;
+}
+
+#equal:active {
+    background-color: #6266e4;
 }
