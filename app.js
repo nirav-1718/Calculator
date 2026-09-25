@@ -5,7 +5,6 @@
 // calculate() done
 
 const display = document.getElementById("display");
-
 const operators = ["%", "/", "*", "-", "+"];
 
 
